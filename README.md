@@ -1,3 +1,5 @@
+Dodanie repozytorium do GitHub
+
 # NIP rent
 
 Aplikacja do rozliczania najmowanych mieszkań.
